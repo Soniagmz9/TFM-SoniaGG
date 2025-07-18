@@ -1,0 +1,18 @@
+Aviso legal y licencia
+© Sonia Gómez García, 2025
+Título del trabajo: Análisis de electrocardiogramas utilizando métodos estadísticos y redes neuronales
+
+Este trabajo está protegido por una licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0).
+
+Esto significa que:
+
+Se permite copiar y redistribuir el material en cualquier medio o formato.
+
+No se permite un uso comercial del contenido.
+
+No se permite transformar, modificar ni crear obras derivadas.
+
+Es obligatorio reconocer adecuadamente la autoría (Sonia Gómez García) al compartirlo.
+
+Más información sobre esta licencia disponible en:
+🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/
